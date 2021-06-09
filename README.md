@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/gutembergfdrti">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gutembergfdrti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutembergfdrti&layout=compact&langs_count=16&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutembergfdrti&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Guto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
