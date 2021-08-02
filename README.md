@@ -15,7 +15,7 @@
   <img align="center" alt="Guto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Guto-Visual Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Guto-SQL Server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-
+  <img align="right" alt="Guto-itachi" height="30" width="40 src="https://cdn.discordapp.com/attachments/530175123144310817/871750539203981352/itachi.gif">
 </div>
   
  
