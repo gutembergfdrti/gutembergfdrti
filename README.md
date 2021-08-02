@@ -27,4 +27,4 @@
  </div>
      
  
-  ![Snake animation](https://github.com/gutembergfdrti/gutembergfdrti/blob/main/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/gutembergfdrti/gutembergfdrti/blob/main/github-contribution-grid-snake.svg)
