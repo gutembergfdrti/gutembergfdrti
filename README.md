@@ -1,9 +1,7 @@
 ## Olá mundo! Eu sou Gutemberg! 
--👨‍💻 Hoje trabalho como Assistente de TI.<br>
 -📚 Estudando Python, C# e SQL.<br>
--💼 Trabalhando na JBS S.A<br>
 
-<img align="top" alt="Guto-itachi" src="https://cdn.discordapp.com/attachments/530175123144310817/871750539203981352/itachi.gif">
+<img align="top" alt="Guto-itachi" src="https://cdn.discordapp.com/attachments/530175123144310817/871750539203981352/itachi.gif"><br>
 
  ##
 
