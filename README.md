@@ -1,5 +1,5 @@
 ## Olá mundo! Eu sou Gutemberg! 
--📚 Estudando Python, C# e SQL.<br>
+-📚 Estudando CyberSecurity, Python e PowerShell.<br>
 
 <img align="top" alt="Guto-itachi" src="https://cdn.discordapp.com/attachments/530175123144310817/871750539203981352/itachi.gif"><br>
 
@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Guto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Guto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
   <img align="center" alt="Guto-Visual Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Guto-SQL Server"  "-" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </div>
